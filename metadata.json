@@ -1,0 +1,7 @@
+{
+  "name": "Jalwa: Modern Indian Dining",
+  "description": "A premium, futuristic redesign of Jalwa Montclair's digital experience, featuring a dark luxury aesthetic, responsive menu, and seamless catering inquiry flow.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
